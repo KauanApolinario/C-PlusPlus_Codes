@@ -7,7 +7,7 @@ main()
 	
 	while(i<=10)
 	{
-		printf("Digite a altura do aluno N° %.0f : ",i);
+		printf("Digite a altura do aluno NÂ° %.0f : ",i);
 		scanf("%f",&alt);
 		soma_alt = soma_alt+alt;
 		i++;
